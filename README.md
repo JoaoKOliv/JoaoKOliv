@@ -1,7 +1,7 @@
 # Olá, me chamo João Pedro
 ## Estudante de Engenharia de Software Puc Minas Coreu
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoaoKOliv/JoaoKOliv/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
