@@ -4,6 +4,7 @@
 ![Snake animation](https://github.com/JoaoKOliv/JoaoKOliv/blob/output/github-contribution-grid-snake.svg)
 
 
+
 <!--
 **JoaoKOliv/JoaoKOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
