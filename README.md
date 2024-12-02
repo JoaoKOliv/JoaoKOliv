@@ -1,8 +1,6 @@
 # Olá, me chamo João Pedro
 ## Estudante de Engenharia de Software Puc Minas Coreu
 
-# snk
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -17,8 +15,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
 
 <!--
 **JoaoKOliv/JoaoKOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
